@@ -8,6 +8,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Relations\HasOneThrough;
 
+
 class ListeningParty extends Model
 {
     /** @use HasFactory<\Database\Factories\ListeningPartyFactory> */
